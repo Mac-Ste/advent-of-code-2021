@@ -42,6 +42,7 @@ build/
 .idea/compiler.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/.name
+.idea/sonarlint
 .idea/artifacts/dist_auto_*
 .idea/artifacts/dist.xml
 .idea/artifacts/ideaPlugin.xml
